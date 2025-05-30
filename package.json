@@ -1,0 +1,13 @@
+{
+  "name": "skim",
+  "version": "1.0.0",
+  "description": "Simple service to take full page screenshots via URL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^22.8.2"
+  }
+}
